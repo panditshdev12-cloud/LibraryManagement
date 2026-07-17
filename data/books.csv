@@ -1,0 +1,4 @@
+book_id,title,author,genre,isbn,publication_year,available
+B001,Python Programming,John Smith,Programming,9781234567890,2022,True
+B002,Database Fundamentals,David Brown,Technology,9789876543210,2021,True
+B003,Clean Code,Robert Martin,Software Engineering,9780132350884,2008,True

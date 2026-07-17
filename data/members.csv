@@ -1,0 +1,4 @@
+member_id,name,email,phone,borrowed_books
+M001,Alice Johnson,alice@gmail.com,5551234567,
+M002,Michael Brown,michael@gmail.com,5559876543,
+12345,new member,newmember@gmail.com,+49 123456789,

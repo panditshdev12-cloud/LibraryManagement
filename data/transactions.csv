@@ -1,0 +1,5 @@
+transaction_id,member_id,book_id,action,date
+T1,12345,B001,Borrow,2026-07-15 02:42:17
+T2,12345,B001,Return,2026-07-15 02:42:48
+T3,12345,B003,Borrow,2026-07-15 20:49:33
+T4,12345,B003,Return,2026-07-15 20:53:06
